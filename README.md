@@ -1,2 +1,3 @@
-the worst code ever/n
+the worst code ever
+
 also all the text is in german yep
